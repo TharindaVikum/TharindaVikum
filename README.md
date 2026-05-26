@@ -199,28 +199,6 @@ const tharinda = {
 
 ---
 
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/TharindaVikum">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://tharindavikum.github.io/tharinda-vikum-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/tharindavikum">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:tharindavikum@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
