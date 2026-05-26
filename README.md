@@ -58,5 +58,27 @@
 ## 📫 Connect With Me
 
 <p>
+  ---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TharindaVikum&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+```txt
+I build modern web applications and backend systems with a passion for clean UI/UX and scalable development.
   <a href="https://github.com/TharindaVikum">GitHub</a>
 </p>
